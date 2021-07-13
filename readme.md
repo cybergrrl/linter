@@ -14,6 +14,7 @@
     - The word count
     - The sentence count
     - The number of times each overused word appears
-You could choose to simply log them one by one or, for a challenge, create a function that logs all of them with some formatting.
+
+    You could choose to simply log them one by one or, for a challenge, create a function that logs all of them with some formatting.
 
 7. Now, log the betterWords array to the console as a single string.
