@@ -1,4 +1,4 @@
-This was an exercise for codecademy web developer career path.
+# This was an exercise for codecademy web developer career path.
 
 1. In the code editor, there is a string called story. We want to gather some information about the individual words and sentences in the string. Let’s split the string into individual words and save them in a new array called storyWords.
 
